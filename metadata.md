@@ -1,11 +1,11 @@
 ---
 cloud: Experience Cloud
-solution: GenStudio
+solution: GenStudio for Performance Marketing
 type: Tutorial
 topic: Content Supply Chain
 feature-set: Creative Cloud, Workfront, Journey Optimizer, Experience Manager, Experience Manager Sites, Experience Manager Assets, GenStudio
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/genstudio-learn.en
+git-repo: https://git.corp.adobe.com/AdobeDocs/genstudio-for-performance-marketing-learn.en
 index: yes
 ---
 
