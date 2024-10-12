@@ -33,6 +33,7 @@ Curated learning experiences by role and skill level are also offered in the cou
 <div id="staff-picks-section">
 
 -->
+
 ## Staff picks
 
 <table>
