@@ -56,7 +56,7 @@ Curated learning experiences by role and skill level are also offered in the cou
       <img alt="Creating On-Brand Meta Ads" src="https://video.tv.adobe.com/v/3435057?format=jpeg" />
     </a>
     <div>
-      <a href="./creating-experiences/creating-on-meta-ads.mdd">
+      <a href="./creating-experiences/creating-on-meta-ads.md">
     <strong>Creating On-Brand Meta Ads</strong>
     </a>
     </div>
