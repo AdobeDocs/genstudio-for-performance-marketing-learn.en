@@ -4,8 +4,8 @@ description: View video tutorials about the capabilities of GenStudio for Perfor
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
+exl-id: f8627a92-06dc-46d7-9a11-8f7964be30e3
 ---
-
 # Adobe [!DNL GenStudio for Performance Marketing] tutorials
 
 
