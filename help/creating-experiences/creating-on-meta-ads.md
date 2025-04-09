@@ -2,6 +2,7 @@
 title: Create On-Brand Meta Ads
 description: Follow a step-by-step product walk-thru of creating a meta ad in [!DNL GenStudio for Performance Marketing].
 role: Admin, Developer, Leader, User
+feature: Create Canvas, Create Prompt, Variant Generation
 level: Beginner, Intermediate, Experienced
 doc-type: Technical Video
 duration: 239

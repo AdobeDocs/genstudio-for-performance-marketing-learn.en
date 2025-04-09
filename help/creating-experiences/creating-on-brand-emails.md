@@ -2,6 +2,7 @@
 title: Create On-Brand Marketing Emails
 description: View a step by step explanation of how to create on-brand marketing emails with Adobe [!DNL GenStudio for Performance Marketing].
 role: Admin, Developer, Leader, User
+feature: Create Canvas, Create Prompt, Variant Generation
 level: Beginner, Intermediate, Experienced
 doc-type: Technical Video
 duration: 267
