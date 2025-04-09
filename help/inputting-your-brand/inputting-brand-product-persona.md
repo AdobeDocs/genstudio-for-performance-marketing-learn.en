@@ -1,7 +1,7 @@
 ---
 title: Inputting Brand, Product, and Persona
 description: This video walks through a detailed explanation of how to input your company's brand guidelines, products, and key marketing personas into GenStudio for Performance Marketing.
-feature: Brands Service, Products Service, Personas Service
+feature: Brand Personalization, Product Personalization, Persona Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Feature Video
