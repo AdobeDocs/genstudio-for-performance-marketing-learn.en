@@ -5,7 +5,7 @@ type: Tutorial
 topic: Content Supply Chain
 feature-set: GenStudio for Performance Marketing
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/genstudio-for-performance-marketing-learn.en
+git-repo: https://github.com/AdobeDocs/genstudio-for-performance-marketing-learn.en
 index: yes
 ---
 
