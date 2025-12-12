@@ -1,7 +1,7 @@
 ---
 title: GenStudio for Performance Marketing Tutorials
 description: View video tutorials about the capabilities of GenStudio for Performance Marketing. Learn how to quickly create on-brand assets, generate variations, and optimize experiences.
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 exl-id: f8627a92-06dc-46d7-9a11-8f7964be30e3
