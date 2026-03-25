@@ -13,7 +13,8 @@ Get the most out of [!DNL GenStudio for Performance Marketing]. Use these tutori
 
 ## Inputting your brand
 
-<!-- CARDS
+<!--
+CARDS
 
 * ./inputting-your-brand/inputting-brand-product-persona.md
 
@@ -48,7 +49,8 @@ Get the most out of [!DNL GenStudio for Performance Marketing]. Use these tutori
 
 ## Creating Experiences
 
-<!-- CARDS
+<!--
+CARDS
 
 * ./creating-experiences/creating-on-brand-emails.md
 * ./creating-experiences/creating-on-meta-ads.md
