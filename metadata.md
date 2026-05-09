@@ -1,6 +1,9 @@
 ---
 cloud: Experience Cloud
 solution: GenStudio for Performance Marketing
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    label: "GenStudio for Performance Marketing"
 type: Tutorial
 topic: Content Supply Chain
 feature-set: GenStudio for Performance Marketing
