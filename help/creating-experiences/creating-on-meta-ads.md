@@ -9,7 +9,7 @@ duration: 239
 last-substantial-update: 2024-10-12T00:00:00.000Z
 jira: KT-16337
 exl-id: cd8492b8-0852-46b2-b638-93f108ec0a84
-TQID: https://experienceleague.adobe.com/dXlTPCjPYM5XQ93DBMfRJFFyntTcBHpZv3IUqugJhqA
+TQID: 'https://experienceleague.adobe.com/dXlTPCjPYM5XQ93DBMfRJFFyntTcBHpZv3IUqugJhqA'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
     internal-label: GenStudio for Performance Marketing
@@ -39,6 +39,8 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Create on-brand meta ads
 

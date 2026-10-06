@@ -9,7 +9,7 @@ duration: 429
 last-substantial-update: 2024-11-26T00:00:00.000Z
 jira: KT-16521
 exl-id: 23610bb4-583b-46d4-ae81-87bc719f6806
-TQID: https://experienceleague.adobe.com/4L4UhZJLTwOEEvj9rdsgtIY4c0pZvIrB06VFV83Zaos
+TQID: 'https://experienceleague.adobe.com/4L4UhZJLTwOEEvj9rdsgtIY4c0pZvIrB06VFV83Zaos'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
     internal-label: GenStudio for Performance Marketing
@@ -41,6 +41,8 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization

@@ -9,7 +9,7 @@ duration: 267
 last-substantial-update: 2024-10-12T00:00:00.000Z
 jira: KT-16335
 exl-id: 353b7e2f-0b54-4e26-bab2-d1b00479d472
-TQID: https://experienceleague.adobe.com/sJKLE0kNqk-pw0N-jNiu1rBHGYY8fN4vxC9HGXO6qQc
+TQID: 'https://experienceleague.adobe.com/sJKLE0kNqk-pw0N-jNiu1rBHGYY8fN4vxC9HGXO6qQc'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
     internal-label: GenStudio for Performance Marketing
@@ -39,6 +39,8 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Create on-brand marketing emails
 
